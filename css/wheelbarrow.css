@@ -34,7 +34,33 @@ img {
   z-index: 10;
   top: 220px;
 }
+#kitty5{
+
+  position: absolute;
+  top: 150px;
+  left: 100px;
+}
+
 
 #basket, #ball {
   display: inline;
+  position: absolute;
+  top: 275px;
+  right: 600px;
+}
+#kitty1{
+  position: absolute ;
+  top: 250px ;
+  right: 450px;
+}
+#kitty-2{
+position: absolute;
+top: 180px;
+right: 350px;
+}
+#ball{
+position: absolute ;
+top:200px;
+right:600px;
+
 }
